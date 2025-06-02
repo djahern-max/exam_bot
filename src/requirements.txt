@@ -1,0 +1,4 @@
+
+selenium==4.15.0
+webdriver-manager==4.0.1
+py2app==0.28.7
